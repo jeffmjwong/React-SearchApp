@@ -10,7 +10,7 @@ class App extends Component {
         <Jumbotron>
           <Grid>
             <h1>Search App</h1>
-            <p>This is a simple search app!</p>
+            <p>This is a simple search app! Awesome work!</p>
 
             <SearchForm />
           </Grid>
